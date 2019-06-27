@@ -16,7 +16,7 @@ header:
       ko-KR   : *KO
     url: /home.html
     
-   - titles:
+  - titles:
       en      : &EN       Blog
       en-GB   : *EN
       en-US   : *EN
