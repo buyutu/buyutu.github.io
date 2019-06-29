@@ -7,7 +7,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/cover2.jpg
+    src: /docs/assets/images/cover1.jpg
 ---
 
 A post has an image article header in immersive mode with a translucent header.
