@@ -18,7 +18,9 @@ article_header:
 ## Education  
 [![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/UConn.jpg "UConn"){:height="15%" width="15%"}](https://uconn.edu/) Ph.D. student in Civil Engineering(Transportation), Starts in August, 2019
 
-[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/uwwordmark.png "UW-Madison"){:height="20%" width="20%"}](https://www.wisc.edu/) M.S. in Civil and Environmental Engineering(Transportation), August, 2018
+[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/uwwordmark.png "UW-Madison"){:height="17%" width="17%"}](https://www.wisc.edu/) M.S. in Civil and Environmental Engineering(Transportation), August, 2018
+
+[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/cqjtulogo.png "CQJTU"){:height="15%" width="15%"}](http://www.cqjtu.edu.cn/) B.Eng. in Traffic and Transportation(Transportation and Logistics), July, 2017
 
 
 ```javascript
