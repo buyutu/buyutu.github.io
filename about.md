@@ -1,6 +1,6 @@
 ---
 layout: article
-title: <center>About</center><br><center><font size="8">Transportation- Perceiver- Dreamer</font>
+title: <center>About</center><br><font size="8">Transportation- Perceiver- Dreamer</font>
 mode: immersive
 header:
   theme: dark
