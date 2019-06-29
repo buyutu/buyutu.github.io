@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Page - <center>About</center><br>Student- Transportation- Perceiver- Dreamer
+title: <center>About</center><br>Transportation- Perceiver- Dreamer
 mode: immersive
 header:
   theme: dark
