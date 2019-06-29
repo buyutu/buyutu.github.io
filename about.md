@@ -10,7 +10,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /screenshoot.jpg
+    src: /backgroundme.jpg
 ---
 
 A post has an image article header in immersive mode with a translucent header.
