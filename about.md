@@ -1,6 +1,6 @@
 ---
 layout: article
-title: <center>About</center><br><center>Transportation- Perceiver- Dreamer</center>
+title: <center>About</center><br><font size="8" color="white"><center>Transportation- Perceiver- Dreamer</center></font>
 mode: immersive
 header:
   theme: dark
@@ -11,9 +11,11 @@ article_header:
   background_image:
     src: /backgroundme.jpg
 ---
+>To be a better man.
 
 # CV
 ## Education
+
 
 A post has an image article header in immersive mode with a translucent header.
 
