@@ -16,9 +16,9 @@ article_header:
 
 # CV  
 ## Education  
-[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/UConn.jpg "UConn"){:height="15%" width="15%"}](https://uconn.edu/) M.S. in Mechanical Engineering, 2012
+[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/UConn.jpg "UConn"){:height="15%" width="15%"}](https://uconn.edu/) Ph.D. student in Civil Engineering(Transportation), Starts in August, 2019
 
-[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/uwwordmark.png "UW-Madison"){:height="15%" width="15%"}](https://www.wisc.edu/) M.S. in Civil and Environmental Engineering(Transportation), August, 2018
+[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/uwwordmark.png "UW-Madison"){:height="20%" width="20%"}](https://www.wisc.edu/) M.S. in Civil and Environmental Engineering(Transportation), August, 2018
 
 
 ```javascript
