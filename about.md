@@ -1,13 +1,13 @@
 ---
 layout: article
-title: Page - Article Header Image (Immersive + Translucent Header)
-mode: immersive
+title: Page - Article Header Image (Customized Header Background)
 header:
   theme: dark
+  background: '#F1F8FF'
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: /docs/assets/images/cover2.jpg
 ---
 
 A post has an image article header in immersive mode with a translucent header.
