@@ -12,7 +12,7 @@ article_header:
     src: /backgroundme.jpg
 ---
 
-> {<font size=20>To be a better man.</font>}
+> <font size="10">To be a better man.</font>
 
 # CV  
 ## Education  
