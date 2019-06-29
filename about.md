@@ -12,11 +12,12 @@ article_header:
     src: /backgroundme.jpg
 ---
 
+![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/HuskyBody.png)
 >To be a better man.
 
 # CV  
 ## Education  
-![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/HuskyBody.png)
+![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/HuskyBody.png) M.S. in Mechanical Engineering, 2012
 
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
