@@ -16,7 +16,7 @@ article_header:
 
 # CV  
 ## Education  
-[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/UConn.jpg "UConn")]{:height="50%" width="50%"}(https://uconn.edu/) M.S. in Mechanical Engineering, 2012  sjsha
+[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/UConn.jpg "UConn"){:height="50%" width="50%"}](https://uconn.edu/) M.S. in Mechanical Engineering, 2012  sjsha
 
 
 ```javascript
