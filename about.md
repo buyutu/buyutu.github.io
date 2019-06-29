@@ -1,22 +1,27 @@
 ---
 layout: article
-titles:
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-key: page-about
+title: Page - Article Header Image (Immersive + Translucent Header)
+permalink: /page/article-header-cover-image-immersive-translucent-header.html
+key: page-article-header-cover-image-ITH
+cover: /docs/assets/images/axure/page-article-header-cover-image-immersive-translucent-header.jpg
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: cover
+  image:
+    src: /docs/assets/images/cover2.jpg
 ---
+
+A post has an image article header in immersive mode with a translucent header.
+
+<!--more-->
+
+<style>
+  .page__header .header__brand path {
+    fill: rgba(255, 255, 255, .95);
+  }
+</style>
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
