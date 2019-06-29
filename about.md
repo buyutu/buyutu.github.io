@@ -30,7 +30,7 @@ article_header:
 ## Internship Experiences
 [![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/logo-zh-hans.png "World Resources Institute (USA) Beijing Representative Office"){:height="50px" width="150px"}](http://www.wri.org.cn/) Research Intern in Transport Policy, January, 2019-July, 2019
 
-[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/ubanxyz.png "Beijing City Quadrant Technology Co., Ltd."){:height="50px" width="150px"}](http://www.urbanxyz.com/#projects) City Analyst Assistant, September, 2018-December, 2018
+[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/ubanxyz.png "Beijing City Quadrant Technology Co., Ltd."){:height="50px" width="170px"}](http://www.urbanxyz.com/#projects) City Analyst Assistant, September, 2018-December, 2018
 
 
 - Responsive
