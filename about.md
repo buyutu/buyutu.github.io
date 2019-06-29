@@ -1,13 +1,16 @@
 ---
 layout: article
-title: Page - Article Header Image (Customized Header Background)
+title: Page - Article Header Overlay Background Image (Immersive + Translucent Header)
+mode: immersive
 header:
   theme: dark
-  background: '#F1F8FF'
 article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /screenshoot.jpg
 ---
 
 A post has an image article header in immersive mode with a translucent header.
