@@ -1,6 +1,6 @@
 ---
 layout: article
-title: About<br><center><div style="font-size:30px">Transportation- Perceiver- Dreamer</div></center>
+title: <center>About</center><br><center><div style="font-size:30px">Transportation- Perceiver- Dreamer</div></center>
 mode: immersive
 header:
   theme: dark
@@ -11,6 +11,7 @@ article_header:
   background_image:
     src: /backgroundme.jpg
 ---
+
 >To be a better man.
 
 # CV  
