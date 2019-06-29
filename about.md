@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Page - Article Header Overlay Background Image (Immersive + Translucent Header)
+title: Page - About<br>Article Header Overlay Background Image (Immersive + Translucent Header)
 mode: immersive
 header:
   theme: dark
