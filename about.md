@@ -18,7 +18,7 @@ article_header:
 ## Education  
 [![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/UConn.jpg "University of Connecticut"){:height="50px" width="150px"}](https://uconn.edu/) Ph.D. student in Civil Engineering(Transportation), Starts in August, 2019
 
-[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/uwwordmark.png "UW-Madison"){:height="50px" width="150px"}](https://www.wisc.edu/) M.S. in Civil and Environmental Engineering(Transportation), August, 2018
+[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/uwwordmark.png "University of Wisconsin-Madison"){:height="50px" width="150px"}](https://www.wisc.edu/) M.S. in Civil and Environmental Engineering(Transportation), August, 2018
 
 [![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/cqjtulogo.png "Chongqing Jiaotong University"){:height="50px" width="150px"}](http://www.cqjtu.edu.cn/) B.Eng. in Traffic and Transportation(Transportation and Logistics), July, 2017
 
@@ -27,7 +27,11 @@ article_header:
 (() => console.log('Hello, World!'))();
 ```
 
-## Features
+## Internship Experiences
+[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/logo-zh-hans.png "World Resources Institute (USA) Beijing Representative Office"){:height="50px" width="150px"}](http://www.wri.org.cn/) Research Intern in Transport Policy, January, 2019-July, 2019
+
+[![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/ubanxyz.png "Beijing City Quadrant Technology Co., Ltd."){:height="50px" width="150px"}](http://www.urbanxyz.com/#projects) City Analyst Assistant, September, 2018-December, 2018
+
 
 - Responsive
 - Semantic HTML
