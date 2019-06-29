@@ -12,7 +12,6 @@ article_header:
     src: /backgroundme.jpg
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/HuskyBody.png)
 >To be a better man.
 
 # CV  
