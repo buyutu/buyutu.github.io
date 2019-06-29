@@ -9,7 +9,7 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    src: /backgroundmee1.jpg
+    src: /backgroundme.jpg
 ---
 
 
