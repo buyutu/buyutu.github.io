@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Page - About<br>Article Header Overlay Background Image (Immersive + Translucent Header)
+title: Page - <center>About</center><br>Student- Transportation- Perceiver- Dreamer
 mode: immersive
 header:
   theme: dark
