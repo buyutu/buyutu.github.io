@@ -132,7 +132,7 @@ comments:
     repository  : buyutu.github.io # GitHub repo
     owner       : buyutu
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      buyutu - your GitHub Id
+      - buyutu
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
