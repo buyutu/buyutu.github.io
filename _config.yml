@@ -129,7 +129,7 @@ comments:
   gitalk:
     clientID    : 317f71bc4c79a49be26a
     clientSecret: 294ded6bb7fbc6868ea9b3a41e36d1849ffce6dc
-    repository  : buyutu.github.io/ # GitHub repo
+    repository  : buyutu.github.io # GitHub repo
     owner       : buyutu
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       buyutu - your GitHub Id
