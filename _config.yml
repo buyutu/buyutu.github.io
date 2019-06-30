@@ -131,8 +131,8 @@ comments:
     clientSecret: 294ded6bb7fbc6868ea9b3a41e36d1849ffce6dc
     repository  : https://buyutu.github.io/ # GitHub repo
     owner       : buyutu
-    admin: buyutu # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+      buyutu - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
