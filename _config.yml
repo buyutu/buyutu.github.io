@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Ge Shi
+  name      : Ge Shi|史歌
   url       : https://buyutu.github.io/
   avatar    : # path or url of avatar image (square)
   bio       : A Ph.D. student in Sustainable Transportation
