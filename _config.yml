@@ -23,7 +23,6 @@ baseurl : # does not include hostname
 title   : Ge Shi | 史歌
 description: > # this means to ignore newlines until "Language & timezone"
   “Happiness quite unshared can scarcely be called happiness; it has no taste.”
-― Charlotte Bronte
 
 
 ## => Language and Timezone
