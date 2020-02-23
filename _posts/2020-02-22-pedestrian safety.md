@@ -13,3 +13,5 @@ show_author_profile: true
 
 *****
 **Data Source: [Connecticut Crash Data Repository](https://www.ctcrash.uconn.edu/)**
+**Created by Ge Shi, using tableau public in EEB 5482 class(Science Communication II: Writing for Public Audiences), instructed by [Dr. Rubega](https://cap.uconn.edu/person/margaret-rubega/) and [Steve Batt](https://public.tableau.com/profile/ct.census.data#!/) at UConn**
+**Thanks to [Jeffrey](https://twitter.com/HighVizAbility?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) for sharing his hosted page for Google Map.**
