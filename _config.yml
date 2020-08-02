@@ -40,15 +40,15 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : A Ph.D. student in Sustainable Transportation
   email     : ge.shi@uconn.edu
-  facebook  : ge.shi.925
+  facebook  : # ge.shi.925
   twitter   : GeShi0811
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : gu-xiao-er-85
+  zhihu     : # gu-xiao-er-85
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : ge-shi/
   github    : buyutu
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
