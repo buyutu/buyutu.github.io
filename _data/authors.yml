@@ -13,6 +13,6 @@ Ge Shi:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : gu-xiao-er-85
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : ge-shi
+  linkedin  : ge-shi/
   github    : buyutu
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
