@@ -27,11 +27,26 @@
       </a>
     {%- endif -%}
 
+    {%- if _author.GoogleScholar -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'GoogleScholar' }}">
+        <a class="button button--circle GoogleScholar-button" itemprop="sameAs" href="https://scholar.google.com/citations?user={{ _author.GoogleScholar }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/googlescholar.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
 
-    {%- if _author.facebook -%}
-      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}">
-        <a class="button button--circle facebook-button" itemprop="sameAs" href="https://www.facebook.com/{{ _author.facebook }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/facebook.svg -%}</div>
+    {%- if _author.ORCID -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'ORCID' }}">
+        <a class="button button--circle ORCID-button" itemprop="sameAs" href="https://orcid.org/{{ _author.ORCID }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/ORCID.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+    
+    {%- if _author.linkedin -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Linkedin' }}">
+        <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/linkedin.svg -%}</div>
         </a>
       </li>
     {%- endif -%}
@@ -44,10 +59,10 @@
       </li>
     {%- endif -%}
 
-    {%- if _author.GoogleScholar -%}
-      <li title="{{ _locale_string_follow | replace: '[NAME]', 'GoogleScholar' }}">
-        <a class="button button--circle GoogleScholar-button" itemprop="sameAs" href="https://scholar.google.com/citations?user={{ _author.GoogleScholar }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/googlescholar.svg -%}</div>
+    {%- if _author.facebook -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}">
+        <a class="button button--circle facebook-button" itemprop="sameAs" href="https://www.facebook.com/{{ _author.facebook }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/facebook.svg -%}</div>
         </a>
       </li>
     {%- endif -%}
@@ -100,14 +115,6 @@
       </li>
     {%- endif -%}
 
-    {%- if _author.linkedin -%}
-      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Linkedin' }}">
-        <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/linkedin.svg -%}</div>
-        </a>
-      </li>
-    {%- endif -%}
-
     {%- if _author.github -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Github' }}">
         <a class="button button--circle github-button" itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank">
@@ -115,15 +122,7 @@
         </a>
       </li>
     {%- endif -%}
-
-    {%- if _author.ORCID -%}
-      <li title="{{ _locale_string_follow | replace: '[NAME]', 'ORCID' }}">
-        <a class="button button--circle ORCID-button" itemprop="sameAs" href="https://orcid.org/{{ _author.ORCID }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/ORCID.svg -%}</div>
-        </a>
-      </li>
-    {%- endif -%}
-    
+ 
     {%- if _author.npm -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'npm' }}">
         <a class="button button--circle npm-button" itemprop="sameAs" href="https://www.npmjs.com/~{{ _author.npm }}" target="_blank">
