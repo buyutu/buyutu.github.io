@@ -51,6 +51,7 @@ author:
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : ge-shi/
   github    : buyutu
+  ORCID     : 0000-0003-3388-4263
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
