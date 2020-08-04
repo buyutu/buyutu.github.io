@@ -44,6 +44,14 @@
       </li>
     {%- endif -%}
 
+    {%- if _author.GoogleScholar -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'GoogleScholar' }}">
+        <a class="button button--circle GoogleScholar-button" itemprop="sameAs" href="https://scholar.google.com/citations?user={{ _author.GoogleScholar }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/googlescholar.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+    
     {%- if _author.weibo -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Weibo' }}">
         <a class="button button--circle weibo-button" itemprop="sameAs" href="https://weibo.com/{{ _author.weibo }}" target="_blank">
