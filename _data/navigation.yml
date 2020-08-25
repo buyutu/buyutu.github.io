@@ -17,21 +17,38 @@ header:
 
     
   - titles:
-      en      : &EN       Blog
+      en      : &EN       Research
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  博客
+      zh-Hans : &ZH_HANS  研究
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  博客
+      zh-Hant : &ZH_HANT  研究
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       블로그
+      ko      : &KO       연구
       ko-KR   : *KO
-    url: /blog.html
+    url: /research.md
+    
+   - titles:
+      en      : &EN       Teaching
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  教学
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  教學
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       가르치는
+      ko-KR   : *KO
+    url: /teaching.md
     
   - titles:
       en      : &EN       Archive
