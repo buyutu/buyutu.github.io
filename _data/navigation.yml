@@ -30,7 +30,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       연구
       ko-KR   : *KO
-    url: /research.md
+    url: /research.html
     
    - titles:
       en      : &EN       Teaching
@@ -47,7 +47,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       가르치는
       ko-KR   : *KO
-    url: /teaching.md
+    url: /teaching.html
     
   - titles:
       en      : &EN       Archive
