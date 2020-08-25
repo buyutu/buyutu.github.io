@@ -30,7 +30,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       연구
       ko-KR   : *KO
-    url: /research.html
+    url: /Teaching/research.html
     
   - titles:
       en      : &EN       Teaching
