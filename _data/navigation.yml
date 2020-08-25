@@ -14,7 +14,6 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       메인 페이지
       ko-KR   : *KO
-
     
   - titles:
       en      : &EN       Research
