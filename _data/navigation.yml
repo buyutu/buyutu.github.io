@@ -47,7 +47,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       가르치는
       ko-KR   : *KO
-    url: /_posts/Teaching/teaching.html
+    url: /teaching.html
     
   - titles:
       en      : &EN       Archive
