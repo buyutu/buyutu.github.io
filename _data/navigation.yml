@@ -32,7 +32,7 @@ header:
       ko-KR   : *KO
     url: /research.html
     
-   - titles:
+  - titles:
       en      : &EN       Teaching
       en-GB   : *EN
       en-US   : *EN
