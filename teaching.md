@@ -17,8 +17,12 @@ article_header:
 University of Connecticut, Storrs, CT.
 {:.info}
 
-## 2020 Fall
+#### Teaching Assistant, CE2710-Transportation Engineering and Planning, Fall 2020
 
-## 2020 Spring
+#### Teaching Assistant, CE2710-Transportation Engineering and Planning, Spring 2019
 
-## 2019 Fall
+#### Teaching Assistant, CE2110-Applied Mechanics I,                     Spring 2019
+
+#### Teaching Assistant, CE2710-Transportation Engineering and Planning, Fall 2019
+
+#### Teaching Assistant, CE2110-Applied Mechanics I,                     Fall 2019
