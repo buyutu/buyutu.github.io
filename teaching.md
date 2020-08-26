@@ -22,8 +22,8 @@ University of Connecticut, Storrs, CT.
 
 ##### Teaching Assistant, CE2710-Transportation Engineering and Planning, Spring 2019
 
-##### Teaching Assistant, CE2110-Applied Mechanics I,&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Spring 2019
+##### Teaching Assistant, CE2110-Applied Mechanics I,&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Spring 2019
 
 ##### Teaching Assistant, CE2710-Transportation Engineering and Planning, Fall 2019
 
-##### Teaching Assistant, CE2110-Applied Mechanics I,&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Fall 2019
+##### Teaching Assistant, CE2110-Applied Mechanics I,&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Fall 2019
