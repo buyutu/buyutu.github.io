@@ -13,6 +13,12 @@ article_header:
     src: /castleman.jpg
 ---
 
-# 2020 Fall
-UConn.
+
+University of Connecticut, Storrs, CT.
 {:.info}
+
+## 2020 Fall
+
+## 2020 Spring
+
+## 2019 Fall
