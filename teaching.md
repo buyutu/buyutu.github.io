@@ -18,7 +18,7 @@ University of Connecticut, Storrs, CT.
 {:.info}
 
 ##### Teaching Assistant, CE2710-Transportation Engineering and Planning, Fall 2020
-  :point_right: [Syllabus for Discussion Session](https://buyutu.github.io/2020/08/25/CE2710.html)
+    :point_right: [Syllabus for Discussion Session](https://buyutu.github.io/2020/08/25/CE2710.html)
 
 ##### Teaching Assistant, CE2710-Transportation Engineering and Planning, Spring 2019
 
