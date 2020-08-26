@@ -14,3 +14,5 @@ article_header:
 ---
 
 # 2020 Fall
+UConn.
+{:.info}
