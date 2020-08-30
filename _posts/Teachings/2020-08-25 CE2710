@@ -1,0 +1,105 @@
+---
+layout: article
+title: CE 2710 Transportation Engineering and Planning
+show_edit_on_github: false
+show_date: false
+show_tags: false
+footer: false
+modify_date: 2020-8-25
+tags: Syllabus
+aside:
+  toc: true
+---
+## Discussion/Tutorial Session 002D, 003D
+## Fall 2020
+
+### Purpose
+Tutorial sessions will facilitate your study as a complement and extension to lectures, through contents reinforcement, problem solving practices, cutting-edge research and real-world engineering cases. The tutorials will also lead you going through two projects of this class- traffic simulation project and geometric design project.
+
+>If you have any concerns, questions, recommendations, or comments, don’t hesitate to contact:<br/>
+>Instructor: Norman Garrick <norman.garrick@gmail.com><br/>
+>TA: Sadia Sharmin <sadia.sharmin@uconn.edu>; Ge Shi <ge.shi@uconn.edu>
+
+---
+
+### Tutorials Time & Links:
+**002D Th 11:00am‑11:50am:** <https://uconn-cmr.webex.com/uconn-cmr/j.php?MTID=m8800791ec4f1ca465ee01c7affb70cd0>
+
+**003D Th 2:00pm‑2:50pm:** <https://uconn-cmr.webex.com/uconn-cmr/j.php?MTID=mc3b9cd45e943d81b1c206af239594153><br/>
+(links are also available in HuskyCT course site)
+
+---
+
+### Online Office Hours:
+**Fri. 3:00pm‑ 4:00pm.** Access by [https://uconn-cmr.webex.com/meet/ges19002](https://uconn-cmr.webex.com/meet/ges19002) or Ge’s Office Hours panel in HuskyCT. 
+Usually the Office hour will be one-to-one format. (room will be blocked if someone is already in the conversation with me. But you may send me a notice to me while waiting in my Personal Room lobby of WebEx.)
+
+---
+<!-- 
+### Learning Materials and Homework: 
+Class schedule and syllabus, lecture notes and HW assignments and solutions, readings and videos, and study guides are available at [https://www.normangarrick.com/copy-of-2020-ce-2710-transportation](https://www.normangarrick.com/copy-of-2020-ce-2710-transportation)
+You should submit your HWs via HuskyCT HW portal. Generally, the HW will be assigned on each Wednesdays and will due right before next Wednesday’s lectures (3:35pm).
+All the lecture notes, tutorial slides and project materials can be downloaded in HuskyCT as well.
+---
+-->
+
+### Tutorial Session Schedule:
+(tentative schedule in pdf file is available in HuskyCT.)
+
+| Week 	|   Date  	|                                      Subject                                     	|                              Related Lectures                              	|                                                           Tutorial Slides and Materials of Interest (Updating List)                                                           	|
+|:----:	|:-------:	|:--------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
+|   1  	|  Sep. 3 	|                             Class Intro/Contexts in cities: what make differences to travel mode                             	| Lecture 1;<br>Lecture 2;<br>Lecture 5: transportation and land use 	| [Garrick:   What Does This Street In Zürich Mean?](https://www.bloomberg.com/news/articles/2019-09-30/a-swiss-lesson-in-enlightened-street-design) <br>     Garrick: Transportation and the Art of Placemaking in America (scanned file   available in HuskyCT) 	|
+|   2  	| Sep. 10 	|            No Tutorials this week/ Or   transport policy and agencies            	|                                     NA                                     	|                                                                               NA                                                                              	|
+|   3  	| Sep. 17 	|            Parking in new urbanism and   parking management, policies            	|          Lecture 3, 4: urban   transportation planning; Lecture 5          	|                                             [Parking Minimums from Vox](https://www.youtube.com/watch?time_continue=363&v=Akm7ik-H_7U&feature=emb_logo) <br>     Reading for fun: [Parking Day Manual](https://www.asla.org/uploadedFiles/CMS/Events/Parking_Day_Manual_Consecutive.pdf)                                            	|
+|   4  	| Sep. 24 	|    Four Steps in transportation   planning: trip generation, trip distribution   	|          Lecture 6;<br>Lecture 7: Trip Generation;<br>Lecture 8: Trip Distribution          	|                                                Lectures from Levinson: [Trip   Generation](https://transportist.org/2014/03/28/introduction-to-transportation-engineering-trip-generation/) and [Trip Distribution](https://transportist.org/2014/04/04/introduction-to-transportation-engineering-destination-choice/)                                                	|
+|   5  	|  Oct. 1 	| Four Steps in transportation   planning: mode choice, trip assignment and review 	|               Lecture 9: Trip Assignment;<br>Lecture 12: Mode Share              	|                                                         [A   case study using “traditional four steps”](https://discovery.ucl.ac.uk/id/eprint/1418961/4/Ahmed_Four Step_Final_BAYES.pdf)                                                         	|
+|   6  	|  Oct. 8 	|                              Divided Highways Cont.                              	|                           [Divided Highways Video](https://www.youtube.com/watch?v=PLr-8QPbiAY)                           	|                                      [Interstate Highway History Photo   Gallery](https://www.fhwa.dot.gov/highwayhistory/gallery.cfm); <br>     [How Highway Changed Urban Form](http://iqc.ou.edu/2015/01/21/60yrsnortheast/)                                      	|
+|   7  	| Oct. 15 	|                        The basics of traffic flow   theory                       	|                   Lecture 13;<br>Lecture 14 Taffic flow   analysis              	|                                                              [Self-driving   cars in traffic flow](https://www.youtube.com/watch?time_continue=48&v=2mBjYZTeaTc&feature=emb_logo)                                                              	|
+|   8  	| Oct. 22 	|                        Shockwaves in traffic flow   theory                       	|              Lecture 14;<br> Lecture 15: Shockwaves              	|                                                        [Why people are struck in   the highway platoon?](https://www.youtube.com/watch?v=iHzzSao6ypE)                                                        	|
+|   9  	| Oct. 29 	|                     Traffic count data and highway   capacity                    	|                                Lecture 13-17                               	|                                                            Eric,   Jeffrey, and Wesley: [Bias in LOS](https://search.proquest.com/docview/1552784405/fulltextPDF/DE716E35820B45ADPQ/1?accountid=14518)                                                           	|
+|  10  	|  Nov. 5 	|               Roadway Component， geometric Alignment (horizontal)               	|               Lecture 19: Horizontal Alignment             	|                                                                      AASHTO:   [Green Book](ftp://www.ahtd.state.ar.us/Outgoing/Roadway/TRC1805/AASHTO A Policy on Geometric Design of Highways and Streets 2018, 7th Edition.pdf)                                                                     	|
+|  11  	| Nov. 12 	|                    Geometric Alignment (vertical)   and review                   	|                Lecture 20: Vertical Alignment                	|                                                                      AASHTO:   [Green Book](ftp://www.ahtd.state.ar.us/Outgoing/Roadway/TRC1805/AASHTO A Policy on Geometric Design of Highways and Streets 2018, 7th Edition.pdf)                                                                     	|
+|  12  	| Nov. 19 	|                             Alignment Design Project                             	|                                Lecture 19-22                               	|                                                            References: lecture and tutorial   Notes                                                           	|
+|      	|         	| **No class.   Thanksgiving Recess**                                                  	|                                                                            	|                                                                                                                                                               	|
+|  13  	|  Dec. 3 	|                        Street design and future   mobility                       	|                                Lecture 23-26                               	|                          [Boston Complete Streets   Guidelines](https://www.boston.gov/sites/default/files/file/2019/12/BCS_Guidelines.pdf)<br>      Shaheen, Totte, and Stocker: [Future   of Mobility White Paper](https://escholarship.org/uc/item/68g2h1qv#main)                          	|
+
+---
+
+### Transportation Courses beyond CE 2710:
+At UConn, [the Department of Civil and Environmental Engineering](https://cee.engr.uconn.edu/) provides a number of transportation related courses which are built upon the basic contents in CE 2710. If you are interested in transportation and would like to dig into greater depth, check this list (as of August, 2020):
+
+Undergraduate Courses:<br/>
+**CE4210. Operations Research in Civil and Environmental Engineering**<br/>
+**CE4410. Computer Aided Site Design**<br/>
+**CE4900W & CE4920W Civil Engineering Projects I and II**
+
+Mixed Undergraduate/Graduate Courses:<br/>
+**CE4710/CE5710. Case Studies in Transportation Engineering**: Analysis of case studies in transportation and urban planning and design. Application of transportation engineering and planning skills. Oral and written group reports, group discussions, individual written papers.<br/>
+**CE4720/CE5720. Street and Highway Design**: History of street and highway design; land-use context, street design data collection and analysis, speed, safety and street network characterization; pedestrian and bikers in design, cross-section and alignment design.<br/>
+**CE4730/CE5730. Transportation Planning**: Transportation economics, urban transportation planning process, evaluation of transportation improvements, transportation systems management.<br/>
+**CE4740/CE5740. Traffic Engineering I**: Traffic flow characteristics; traffic control devices; traffic signs and markings; traffic data collection; traffic signal timing and operation; capacity of streets, intersections, and highways; traffic impact studies; traffic simulation.
+
+Graduate Courses:<br/>
+**CE5725. Transportation Safety**<br/>
+**CE5735. Public Transportation Systems**<br/>
+**CE6725. Statistical and Econometric Methods for Transportation Data Analysis**: Application of various statistical methods for analysis of transportation data, including linear regression, count data models, logistic regression, discrete outcome models, ordered probability models, random parameter models, and duration models among others.<br/>
+**CE6730. Travel Demand Forecasting**<br/>
+**CE6735. Transportation Network Analysis**<br/>
+**CE6740. Traffic Engineering Operations**<br/>
+
+---
+
+### Other Resources for Online Learning:
+* Reopening UConn: [https://reopen.uconn.edu/](https://reopen.uconn.edu/)<br/>
+* Student Technology Training course: [https://huskyct.uconn.edu/ultra/courses/_80016_1/cl/outline](https://huskyct.uconn.edu/ultra/courses/_80016_1/cl/outline)<br/>
+* Tech Help: [https://techsupport.uconn.edu/](https://techsupport.uconn.edu/)<br/>
+* Tips for success: [https://onlinestudent.uconn.edu/learn-more/#collapsepanel-269-1-0-07](https://onlinestudent.uconn.edu/learn-more/#collapsepanel-269-1-0-07)<br/>
+* UConn library: [https://lib.uconn.edu/](https://lib.uconn.edu/)<br/>
+* CSD: [https://csd.uconn.edu/](https://csd.uconn.edu/)<br/>
+* Student Health and Wellness – Mental Health: [https://counseling.uconn.edu/](https://counseling.uconn.edu/)
+
+_Many university resources are now available virtually._<br/>
+_And lot more… Your instructors, TAs, friends, families…_
+
+![Reasons for TA'ing](http://www.phdcomics.com/comics/archive/phd101708s.gif 	"Reasons for TA'ing is you.")
+
