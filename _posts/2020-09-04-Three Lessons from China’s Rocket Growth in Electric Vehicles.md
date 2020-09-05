@@ -6,7 +6,7 @@ show_edit_on_github: false
 show_date: true
 show_tags: true
 modify_date: 2020-9-04
-tags: Transportation Paper
+tags: NEV Electrification Policy
 aside:
   toc: false
 header:
