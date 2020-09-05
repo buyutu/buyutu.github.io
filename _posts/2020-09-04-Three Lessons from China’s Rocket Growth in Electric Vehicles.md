@@ -17,4 +17,6 @@ article_header:
   type: cover
   image:
     src: /assets/cover3.jpg
+author: Ge Shi
+show_author_profile: true
 ---
