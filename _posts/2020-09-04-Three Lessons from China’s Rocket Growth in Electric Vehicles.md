@@ -14,7 +14,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /assets/Photo by Arun Raj on Unsplash.jpg
+    src: /assets/Picture by Arun Raj on Unsplash.jpg
 author: Ge Shi
 show_author_profile: true
 ---
