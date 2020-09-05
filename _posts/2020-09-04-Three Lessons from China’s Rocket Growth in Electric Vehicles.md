@@ -14,7 +14,7 @@ header:
   theme: dark
   background: '#333'
 article_header:
-  type: cover
+  type: overlay
   image:
     src: /assets/cover3.jpg
 author: Ge Shi
