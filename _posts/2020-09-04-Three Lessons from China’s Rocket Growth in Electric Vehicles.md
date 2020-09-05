@@ -17,3 +17,4 @@ article_header:
   type: cover
   image:
     src: /assets/cover3.jpg
+---
