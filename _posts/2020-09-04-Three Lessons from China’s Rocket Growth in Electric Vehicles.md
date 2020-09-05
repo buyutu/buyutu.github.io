@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Page - Article Header Image (Immersive + Translucent Header)
+title: 3 Lessons from China’s Rocket Growth in Electric Vehicles
 mode: immersive
 header:
   theme: dark
