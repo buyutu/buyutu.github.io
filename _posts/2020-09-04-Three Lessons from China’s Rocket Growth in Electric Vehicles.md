@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 3 Lessons from China’s Rocket Growth in Electric Vehicles
-key: 2020-09-04-China’s Rocket Growth in Electric Vehicles
+key: 2020-09-04-Rocket Growth in Electric Vehicles
 mode: immersive
 show_edit_on_github: false
 show_date: true
