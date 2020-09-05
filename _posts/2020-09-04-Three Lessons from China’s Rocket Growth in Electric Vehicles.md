@@ -25,4 +25,4 @@ show_author_profile: true
 
 ![China leads global NEV growth](https://thecityfix.com/wp-content/uploads/2020/08/20.02.26-EV-v2-01.png)
 
-Header Photo by Arun Raj on Unsplash. It was photographed at Shenzhen, one of the earliest cities in China that introduced ambitious NEV policies. Electric taxis showed on the bottom left corner. 
+<font size=5>Header Photo by Arun Raj on Unsplash. It was photographed at Shenzhen, one of the earliest cities in China that introduced ambitious NEV policies. Electric taxis showed on the bottom left corner.</font>
