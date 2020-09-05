@@ -19,6 +19,9 @@ article_header:
 author: Ge Shi
 show_author_profile: true
 ---
+
+>China’s experience in promoting electric mobility is unique and can’t be exactly replicated. However, the country’s more than 10 years of aggressive electric vehicle policies can >still provide valuable lessons to other countries who want to accelerate mobility electrification. As countries look for ways to recover from the unprecedented disruption of the >COVID-19 pandemic, multi-faceted electric vehicle policy packages can help pave the way to a more robust industry and safer, more sustainable streets.
+
 `China`{:.error}
 
 Edit
