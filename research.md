@@ -19,3 +19,4 @@ article_header:
 
 
 <a class="button button--outline-primary button--rounded button--sm" href="#"><i class="fas fa-file-pdf"></i> PDF</a>
+<a class="button button--outline-primary button--rounded button--sm" href="#"><i class="fas fa-paperclip"></i> DOI</a>
