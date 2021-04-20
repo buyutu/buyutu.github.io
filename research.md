@@ -18,5 +18,5 @@ article_header:
 # _TBA_ :octocat:
 
 
-<a class="button button--outline-primary button--rounded button--sm" href="#"><i class="fas fa-file-pdf"></i> PDF</a>(https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf)
+<a class="button button--outline-primary button--rounded button--sm" href="#"><i class="fas fa-file-pdf"></i> PDF</a> url:https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf
 <a class="button button--outline-primary button--rounded button--sm" href="#"><i class="fas fa-paperclip"></i> DOI</a>
