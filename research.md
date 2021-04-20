@@ -18,4 +18,4 @@ article_header:
 # _TBA_ :octocat:
 
 
-<a class="button button--success button--rounded button--sm" href="#"><i class="fas fa-file-pdf"></i> PDF</a>
+<a class="button button--outline-secondary button--rounded button--sm" href="#"><i class="fas fa-file-pdf"></i> PDF</a>
