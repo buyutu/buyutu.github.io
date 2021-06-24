@@ -27,5 +27,3 @@ article_header:
 [![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/logo-zh-hans.png "World Resources Institute (USA) Beijing Representative Office"){:height="50px" width="150px"}](http://www.wri.org.cn/) Research Intern in Transport Policy, January, 2019-July, 2019
 
 [![TeXt Theme](https://raw.githubusercontent.com/buyutu/buyutu.github.io/master/screenshots/ubanxyz.png "Beijing City Quadrant Technology Co., Ltd."){:height="40px" width="150px"}](http://www.urbanxyz.com/) City Analyst Assistant, September, 2018-December, 2018
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=T9pVQH4ZjvdcA5TVD11pGQl9RoybrPKC36o8Dv1Jut4&co=ffffff&ct=808080&cmo=1033a6&cmn=7a95ee'></script>
