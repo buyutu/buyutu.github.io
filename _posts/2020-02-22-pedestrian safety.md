@@ -3,7 +3,9 @@ title: Track Pedestrian Safety in past 5 years in The state of Connecticut
 key: 2020-02-22-pedestrian safety
 show_edit_on_github: false
 modify_date: 2020-2-22
-tags: Transportation Safety Pedestrian
+tags:
+  - Transportation
+  - Pedestrian Safety
 author: Ge Shi
 show_author_profile: true
 ---
