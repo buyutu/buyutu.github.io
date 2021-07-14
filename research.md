@@ -13,7 +13,7 @@ article_header:
     src: /cover3.jpg
 ---
 
-> <font size="4">""We see more and farther than our predecessors, not because we have keener vision or greater height, but because we are lifted up and borne aloft on their gigantic stature.""</font>
+> <font size="4">"We see more and farther than our predecessors, not because we have keener vision or greater height, but because we are lifted up and borne aloft on their gigantic stature."</font>
 
 # _TBA_ :octocat:
 
