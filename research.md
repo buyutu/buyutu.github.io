@@ -17,7 +17,7 @@ article_header:
 
 # :octocat:
 
-## Sustainable Safety in The Netherlands Creating a Road Environment where People on Foot and on Bikes are as Safe as People in Cars
+<font size=4>Sustainable Safety in The Netherlands Creating a Road Environment where People on Foot and on Bikes are as Safe as People in Cars</font>
 <a class="button button--outline-primary button--rounded button--sm" href="https://buyutu.github.io/PDF%20Archive/Sustainable%20Safety03611981211019736.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
 <a class="button button--outline-primary button--rounded button--sm" href="https://doi.org/10.1177/03611981211019736"><i class="fas fa-paperclip"></i> DOI</a>
 
