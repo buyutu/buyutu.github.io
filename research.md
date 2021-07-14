@@ -19,6 +19,6 @@ article_header:
 
 
 <a class="button button--outline-primary button--rounded button--sm" href="https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
-<a class="button button--outline-primary button--rounded button--sm" href="#"><i class="fas fa-paperclip"></i> DOI</a>
+<a class="button button--outline-primary button--rounded button--sm" href="https://doi.org/10.1177/03611981211019736"><i class="fas fa-paperclip"></i> DOI</a>
 
 
