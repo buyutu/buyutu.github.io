@@ -15,7 +15,7 @@ article_header:
 
 > <font size="4">"We see more and farther than our predecessors, not because we have keener vision or greater height, but because we are lifted up and borne aloft on their gigantic stature."</font>
 
-# _TBA_ :octocat:
+# octocat:
 
 
 <a class="button button--outline-primary button--rounded button--sm" href="https://buyutu.github.io/PDF%20Archive/Sustainable%20Safety03611981211019736.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
