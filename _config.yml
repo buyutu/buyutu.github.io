@@ -121,6 +121,8 @@ sharing:
 ##############################
 comments:
   provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
+  
+proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
 
   ## Disqus
   disqus:
