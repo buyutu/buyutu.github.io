@@ -122,7 +122,6 @@ sharing:
 comments:
   provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
   
-proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
 
   ## Disqus
   disqus:
@@ -137,6 +136,8 @@ proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_toke
     owner       : buyutu
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - buyutu
+    proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
+
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
