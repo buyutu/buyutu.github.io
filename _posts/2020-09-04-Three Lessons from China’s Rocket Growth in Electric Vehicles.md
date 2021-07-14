@@ -7,7 +7,9 @@ show_edit_on_github: false
 show_date: true
 show_tags: true
 modify_date: 2020-9-04
-tags: NEV Electrification Policy
+tags:
+  - NEV
+  - Electrification Policy
 aside:
   toc: false
 header:
